@@ -12,3 +12,5 @@ Write a program that uses nested for loops to create the following number pyrami
  8     16      24      32      40      48      56      64
  9     18      27      36      45      54      63      72      81
 
+
+######
